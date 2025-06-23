@@ -683,7 +683,13 @@ video{
 
 
 @media screen and (max-width:700px) {
-     
+
+    #page1{
+        background-color: #00000036;
+        box-shadow: 0px -10 150px #000;
+    }
+
+    
     #nav{
         padding: 0 50px;
     }
