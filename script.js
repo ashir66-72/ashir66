@@ -21,14 +21,14 @@ gsap.to("#main",{
         scroller:"body",
         start:"top -10%",
         end:"top -70%",
-        scrub:5,
+        scrub:2,
     }
 })
 
 
 
 gsap.to("video",{
-    scale:1.8,
+    scale:1.7,
     scrollTrigger:{
         trigger:"#page1 h1",
         scroller:"body",
