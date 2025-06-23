@@ -18,7 +18,6 @@ body{
 
 #nav{
     height: 90px;
-    background-color:red;
     width: 100%;
     display: flex;
     align-items: center;
@@ -471,7 +470,7 @@ video{
 
 
 #page5 marquee img:hover{
-    scale: 1.1;
+    scale: 1.3;
 }
 
 
@@ -692,7 +691,7 @@ video{
 
     
     #nav{
-        padding: 0 50px;
+        padding: 50px 65px;
     }
 
     #page1 h1::before{
@@ -741,6 +740,11 @@ video{
         width: 43vw;
     }
 
+    #page5 marquee img:hover{
+    scale: 1.5;
+}
+
+
     #page5 h1{
         font-size: 7vw;
     }
@@ -748,10 +752,6 @@ video{
      #slidebar #slidepart2 h2{
     font-size: 9vw;
  }
-
-    #nav{
-        padding:25px 15px;
-    }
 
 
 
